@@ -1,0 +1,9 @@
+[submodule "escrow-foundry"]
+	path = escrow-foundry
+	url = git@github.com:alfredlouisw8/escrow-foundry.git
+[submodule "payfi-influencer"]
+	path = payfi-influencer
+	url = git@github.com:kingmetaa/payfi-influencer.git
+[submodule "payfi-brand"]
+	path = payfi-brand
+	url = git@github.com:darrenmuliawan/payfi.git
